@@ -1,0 +1,25 @@
+{
+  "name": "kxlazy",
+  "version": "1.9.3",
+  "description": "jquery lazy",
+  "keywords": [
+    "jquery",
+    "lazy"
+  ],
+  "homepage": "",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kxbrand/spm"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "jquery": "1.10.2"
+    }
+  }
+}
