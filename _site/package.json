@@ -1,0 +1,22 @@
+{
+  "name": "include",
+  "version": "0.0.1",
+  "description": "html include",
+  "keywords": ["html","html template","template","include"],
+  "homepage": "",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kxbrand/spm.git"
+  },
+  "bugs": {
+    "url": "git://github.com/kxbrand/spm.git"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "jquery":"1.10.2"
+    }
+  }
+}
