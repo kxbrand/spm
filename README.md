@@ -1,6 +1,20 @@
-spm
-===
+# easing [![spm version](http://spmjs.io/badge/easing)](http://spmjs.io/package/easing)
 
-http://spm.sdbrand.com
+---
 
-http://www.spmjs.io
+jQuery easing 1.3.0
+
+---
+
+## Install
+
+```
+$ spm install easing --save
+```
+
+## Usage
+
+```js
+var easing = require('easing');
+// use easing
+```
